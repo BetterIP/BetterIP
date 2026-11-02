@@ -1,6 +1,5 @@
-## Hi, i'm Šimon (that's Simon in English) and on the internet i go by betterip or BetterIP.
+## Hi, i'm betterip and i do cool shit.
 
 
-I am curently very bad at using github, thus the shit i put here will look like it.<br>
-What else do i have to say here?<br>
-OH, Check out my very cool website!!! https://betterip.org<br>
+I do not use github a lot but for a project by Microsoft, it's pretty decent.
+You should totally ofc check out my website (https://betterip.org)
